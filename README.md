@@ -24,6 +24,7 @@
 
     
 **Tech Stack**
-  Frontend: HTML,CSS,Javascript
-  Backend: Core Java
-  Database: MySQL,MongoDB
+  
+    Frontend: HTML,CSS,Javascript
+    Backend: Core Java
+    Database: MySQL,MongoDB
