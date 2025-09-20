@@ -1,0 +1,25 @@
+1
+Harini
+harini@gmail.com
+password123
+2
+harini@gmail.com
+password123
+1
+Fan
+50
+8
+1
+Light
+20
+12
+4
+2
+1
+3
+3
+4
+Harini Updated
+harini.updated@gmail.com
+5
+3
